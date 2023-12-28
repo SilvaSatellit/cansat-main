@@ -1,4 +1,4 @@
-# Haupt-Mikrocontroller
+# Team Silva-Satellit
 
 <img src="./docs/images/logo.jpeg" alt="Logo" style="border-radius:20%; box-shadow:0 0 10px 1px grey">
 
